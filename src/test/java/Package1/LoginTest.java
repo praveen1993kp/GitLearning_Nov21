@@ -6,6 +6,8 @@ public class LoginTest {
 	{
 		System.out.println("Login Page");
 		
+		System.out.println("Login Page2");
+		
 	}
 
 }
